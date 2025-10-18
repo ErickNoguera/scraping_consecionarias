@@ -33,3 +33,9 @@ Thumbs.db
 # Temporales
 tmp/
 temp/
+
+echo "node_modules/" > .gitignore
+echo ".env" >> .gitignore
+echo "output/" >> .gitignore
+echo "dist/" >> .gitignore
+echo "*.log" >> .gitignore
