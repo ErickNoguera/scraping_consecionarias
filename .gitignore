@@ -1,0 +1,35 @@
+# Variables de entorno (CRÍTICO - contiene API keys)
+.env
+.env.local
+.env.*.local
+
+# Dependencias
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Output/datos generados
+output/
+*.csv
+
+# TypeScript
+dist/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporales
+tmp/
+temp/
