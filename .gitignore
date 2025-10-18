@@ -1,24 +1,24 @@
-# Variables de entorno (CRÍTICO - contiene API keys)
+# Crea el archivo .gitignore
+cat > .gitignore << EOF
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production
+dist/
+build/
+output/
+
+# Environment
 .env
 .env.local
 .env.*.local
 
-# Dependencias
-node_modules/
-npm-debug.log*
-yarn-error.log*
-
-# Output/datos generados
-output/
-*.csv
-
-# TypeScript
-dist/
-*.tsbuildinfo
-
 # Logs
 logs/
 *.log
+npm-debug.log*
 
 # OS
 .DS_Store
@@ -30,12 +30,6 @@ Thumbs.db
 *.swp
 *.swo
 
-# Temporales
-tmp/
-temp/
-
-echo "node_modules/" > .gitignore
-echo ".env" >> .gitignore
-echo "output/" >> .gitignore
-echo "dist/" >> .gitignore
-echo "*.log" >> .gitignore
+# TypeScript
+*.tsbuildinfo
+EOF
