@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+scrapers:
+build: .
+environment:
+- BROWSERBASE_API_KEY=${BROWSERBASE_API_KEY}
+- BROWSERBASE_PROJECT_ID=${BROWSERBASE_PROJECT_ID}
+- OUTPUT_DIR=/data/output
+volumes:
+- ./output:/data/output
+command: ["npx","tsx","src/index.ts"]

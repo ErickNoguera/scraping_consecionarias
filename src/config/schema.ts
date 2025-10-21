@@ -6,7 +6,5 @@ version: z.string().nullable().optional(),
 precio_lista: z.string().nullable().optional(),
 bono_marca: z.string().nullable().optional(),
 bono_financiamiento: z.string().nullable().optional(),
-url: z.string().nullable().optional(),
-dealer: z.string().nullable().optional(),
 });
 export type Car = z.infer<typeof CarSchema>;

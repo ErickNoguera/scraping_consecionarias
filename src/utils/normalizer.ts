@@ -3,13 +3,11 @@ import { Car } from "../config/schema";
 export function normalize(raw: any, dealer: string): Car {
   return {
     marca: raw.brand || raw.marca || inferBrand(raw.model) || null,
-    modelo: raw.model || raw.modelo || raw.name || null,
+    modelo: raw.model || raw.modelo || null,
     version: raw.version || null,
-    precio_lista: normalizePrice(raw.precio_lista || raw.price || raw.contado),
-    bono_marca: normalizePrice(raw.bono_marca || raw.bonus_brand),
+    precio_lista: normalizePrice(raw.price_cash || raw.precio_lista),
+    bono_marca: normalizePrice(raw.bono_todo_medio_pago || raw.bonus),
     bono_financiamiento: normalizePrice(raw.bono_financiamiento || raw.bonus_financing),
-    url: raw.url || null,
-    dealer: dealer || null, 
   };
 }
 
@@ -22,9 +20,8 @@ function normalizePrice(p: any): string | null {
 function inferBrand(model: string | undefined): string | null {
   if (!model) return null;
   const brands = [
-    "Toyota", "Hyundai", "Kia", "Citroen", "Chevrolet", 
-    "Ford", "Nissan", "Mazda", "Renault", "Honda",
-    "Peugeot", "Volkswagen", "Suzuki", "Mitsubishi", "Subaru"
+    "Jeep", "Ram", "Fiat", "Mitsubishi", "SsangYong",
+    "Chery", "Exeed", "JMC", "GAC", "BYD"
   ];
   const low = model.toLowerCase();
   for (const b of brands) {
