@@ -2,30 +2,46 @@ import { Car } from "../config/schema";
 
 export function normalize(raw: any, dealer: string): Car {
   return {
-    marca: raw.brand || raw.marca || inferBrand(raw.model) || null,
-    modelo: raw.model || raw.modelo || null,
-    version: raw.version || null,
-    precio_lista: normalizePrice(raw.price_cash || raw.precio_lista),
+    marca: normalizeText(raw.brand || raw.marca || inferBrand(raw.model)) || null,
+    modelo: normalizeText(raw.model || raw.modelo) || null,
+    version: normalizeText(raw.version) || null,
+    precio_lista: normalizePrice(raw.precio_lista || raw.price_cash),
     bono_marca: normalizePrice(raw.bono_todo_medio_pago || raw.bonus),
     bono_financiamiento: normalizePrice(raw.bono_financiamiento || raw.bonus_financing),
+    precio_todo_medio_pago: normalizePrice(raw.precio_todo_medio_pago),
+    precio_con_financiamiento: normalizePrice(raw.precio_con_financiamiento),
+    url: raw.url || null,
+    dealer: dealer || null,
   };
 }
 
 function normalizePrice(p: any): string | null {
   if (!p) return null;
   if (typeof p === "number") return p.toString();
-  return p.toString().replace(/[^0-9]/g, "");
+  // Remover todo excepto números
+  const cleaned = p.toString().replace(/[^0-9]/g, "");
+  return cleaned || null;
+}
+
+function normalizeText(text: any): string | null {
+  if (!text) return null;
+  return text
+    .toString()
+    .toUpperCase()
+    .replace(/\s+/g, ' ')
+    .replace(/[\n\r]/g, ' ')
+    .trim();
 }
 
 function inferBrand(model: string | undefined): string | null {
   if (!model) return null;
   const brands = [
-    "Jeep", "Ram", "Fiat", "Mitsubishi", "SsangYong",
-    "Chery", "Exeed", "JMC", "GAC", "BYD"
+    "JEEP", "RAM", "FIAT", "MITSUBISHI", "SSANGYONG",
+    "CHERY", "EXEED", "JMC", "GAC", "BYD", "PEUGEOT"
   ];
-  const low = model.toLowerCase();
-  for (const b of brands) {
-    if (low.includes(b.toLowerCase())) return b;
+  const modelUpper = model.toUpperCase();
+  for (const brand of brands) {
+    if (modelUpper.includes(brand)) return brand;
   }
   return null;
 }

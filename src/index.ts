@@ -1,4 +1,5 @@
 import { scrapeAstara } from "./scrapers/astara";
+import { scrapeGuillermoMorales } from "./scrapers/guillermomorales";
 import { fileURLToPath } from 'url';
 
 async function main() {
@@ -8,6 +9,12 @@ async function main() {
     await scrapeAstara(); 
   } catch (e) { 
     console.error('Astara failed:', e); 
+  }
+
+  try { 
+    await scrapeGuillermoMorales(); 
+  } catch (e) { 
+    console.error('Guillermo Morales failed:', e); 
   }
   
   console.log('\nTodos los scrapers han finalizado.');
