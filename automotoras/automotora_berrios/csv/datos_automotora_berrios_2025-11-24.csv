@@ -1,0 +1,615 @@
+marca,modelo,version,url_modelo
+Deepal,S07,79.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Deepal%20S07.pdf
+Deepal,S07,EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Deepal%20S07.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+GWM,Haval H6,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,Haval H7,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H7.pdf
+GWM,Haval Jolion,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval Jolion Pro,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion%20Pro.pdf
+GWM,ORA 03,SR 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20ORA%2003.pdf
+GWM,Poer,P500 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM-POER%20500%20Ficha%20Tecnica.pdf
+GWM,Haval Jolion,Deluxe HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20Jolion.pdf
+GWM,Haval H6,Elite HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%20Haval%20H6.pdf
+GWM,ORA 03,GT 59 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GWM%ORA%03.pdf
+Suzuki,Fronx,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Fronx,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Swift,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Fronx,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Swift,GL AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Swift,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Swift.pdf
+Suzuki,Grand Vitara,GL MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Suzuki,Grand Vitara,GLX AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Grand Vitara,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,Fronx,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Fronx.pdf
+Suzuki,Grand Vitara,Limited AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20Grand%20Vitara.pdf
+Suzuki,XL7,GLX MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Suzuki%20XL7.pdf
+Renault,Kwid,e-tech 26.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Kwid%20e-tech%2026.8%20kWh.pdf
+Renault,Arkana,Intens MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Arkana,Alpine MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Arkana.pdf
+Renault,Koleos,E-Tech HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Renault%20Koleos%20E-Tech.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Mazda,CX-60,Premium Sport D MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Premium Sport G MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-60,Signature PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%20CX-60.pdf
+Mazda,CX-90,Premium MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf
+Mazda,CX-90,Signature MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mazda%CX-90.pdf

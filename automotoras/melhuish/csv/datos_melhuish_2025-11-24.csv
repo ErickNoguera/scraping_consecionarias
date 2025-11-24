@@ -1,0 +1,101 @@
+marca,modelo,version,url_modelo
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Dongfeng,E70,47.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Dongfeng%20E70.pdf
+Dongfeng,S50,EVE 56 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Dongfeng%20S50.pdf
+Dongfeng,T5,EVO HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Dongfeng%20T5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Foton,V7,LUXURY MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Foton%20V7.pdf
+Foton,V9,ULTIMATE MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Foton%20V9.pdf
+Foton,V7,LUXURY AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Foton%20V7.pdf
+Foton,V9,ELITE MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Foton%20V9.pdf
+Foton,V7,ELITE AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Foton%20V7.pdf
+Opel,New Grandland,GS Line MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf
+Opel,New Grandland,GS MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf
+Opel,New Grandland,GS PLUS MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf
+Dongfeng,E70,47.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Dongfeng%20E70.pdf
+Dongfeng,S50,EVE 56 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Dongfeng%20S50.pdf
+Dongfeng,T5,EVO HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Dongfeng%20T5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Foton,V7,LUXURY MT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Foton%20V7.pdf
+Foton,V9,ULTIMATE MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Foton%20V9.pdf
+Foton,V7,LUXURY AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Foton%20V7.pdf
+Foton,V9,ELITE MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Foton%20V9.pdf
+Foton,V7,ELITE AT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Foton%20V7.pdf
+Opel,New Grandland,GS Line MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf
+Opel,New Grandland,GS MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf
+Opel,New Grandland,GS PLUS MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Opel,New Grandland,GS Line MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf
+Opel,New Grandland,GS MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf
+Opel,New Grandland,GS PLUS MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf
+Opel,New Grandland,GS Line MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf
+Opel,New Grandland,GS MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf
+Opel,New Grandland,GS PLUS MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Opel%20New%20Grandland%20MHEV.pdf

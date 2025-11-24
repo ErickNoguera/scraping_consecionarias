@@ -1,0 +1,689 @@
+marca,modelo,version,url_modelo
+GAC,Emkoo,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Emkoo.pdf
+GAC,Aion ES,55.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20ES.pdf
+GAC,Aion Y,63.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20Y.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+KGM,Torres EVX,Limited Plus 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+KGM,Torres EVX,Limited 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+BYD,TANG,GS 111 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20TANG%20GS%20111%20kWh.pdf
+BYD,YUAN PLUS,GS 62 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,YUAN PLUS,GS 50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,DOLPHIN MINI,GS 38 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,HAN,GS 88 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20HAN%20GS%2088%20kWh.pdf
+BYD,SEAL,GS 82.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SEAL%20GS%2082.5%20kWh.pdf
+BYD,SONG PLUS DM-i,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PLUS DM-i,GX PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PRO,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,YUAN PRO,GL 32 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+BYD,SONG PRO,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,DOLPHIN MINI,GL 30 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,SHARK,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SHARK%20GS%20PHEV.pdf
+BYD,YUAN PRO,GS 42.12 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Fiat,600e,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20600e.pdf
+Fiat,500e,42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20500e.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+Jeep,Avenger,Summit BEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Avenger,Altitude HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Compass,4XE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Compass.pdf
+Jeep,Avenger,Summit HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Chery,Tiggo 7,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%207%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 8,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%208%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 9,Luxury PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha-Tecnica-Tiggo-9-PHEV.pdf
+Mitsubishi,Outlander,GLS Limited 4x4 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mitsubishi%20Outlander.pdf
+GAC,Emkoo,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Emkoo.pdf
+GAC,Aion ES,55.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20ES.pdf
+GAC,Aion Y,63.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20Y.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+KGM,Torres EVX,Limited Plus 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+KGM,Torres EVX,Limited 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+BYD,TANG,GS 111 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20TANG%20GS%20111%20kWh.pdf
+BYD,YUAN PLUS,GS 62 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,YUAN PLUS,GS 50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,DOLPHIN MINI,GS 38 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,HAN,GS 88 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20HAN%20GS%2088%20kWh.pdf
+BYD,SEAL,GS 82.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SEAL%20GS%2082.5%20kWh.pdf
+BYD,SONG PLUS DM-i,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PLUS DM-i,GX PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PRO,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,YUAN PRO,GL 32 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+BYD,SONG PRO,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,DOLPHIN MINI,GL 30 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,SHARK,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SHARK%20GS%20PHEV.pdf
+BYD,YUAN PRO,GS 42.12 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Fiat,600e,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20600e.pdf
+Fiat,500e,42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20500e.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+Jeep,Avenger,Summit BEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Avenger,Altitude HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Compass,4XE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Compass.pdf
+Jeep,Avenger,Summit HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Chery,Tiggo 7,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%207%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 8,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%208%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 9,Luxury PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha-Tecnica-Tiggo-9-PHEV.pdf
+Mitsubishi,Outlander,GLS Limited 4x4 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mitsubishi%20Outlander.pdf
+GAC,Emkoo,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Emkoo.pdf
+GAC,Aion ES,55.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20ES.pdf
+GAC,Aion Y,63.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20Y.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+KGM,Torres EVX,Limited Plus 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+KGM,Torres EVX,Limited 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+BYD,TANG,GS 111 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20TANG%20GS%20111%20kWh.pdf
+BYD,YUAN PLUS,GS 62 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,YUAN PLUS,GS 50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,DOLPHIN MINI,GS 38 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,HAN,GS 88 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20HAN%20GS%2088%20kWh.pdf
+BYD,SEAL,GS 82.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SEAL%20GS%2082.5%20kWh.pdf
+BYD,SONG PLUS DM-i,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PLUS DM-i,GX PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PRO,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,YUAN PRO,GL 32 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+BYD,SONG PRO,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,DOLPHIN MINI,GL 30 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,SHARK,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SHARK%20GS%20PHEV.pdf
+BYD,YUAN PRO,GS 42.12 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Fiat,600e,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20600e.pdf
+Fiat,500e,42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20500e.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+Jeep,Avenger,Summit BEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Avenger,Altitude HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Compass,4XE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Compass.pdf
+Jeep,Avenger,Summit HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Chery,Tiggo 7,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%207%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 8,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%208%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 9,Luxury PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha-Tecnica-Tiggo-9-PHEV.pdf
+Mitsubishi,Outlander,GLS Limited 4x4 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mitsubishi%20Outlander.pdf
+GAC,Emkoo,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Emkoo.pdf
+GAC,Aion ES,55.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20ES.pdf
+GAC,Aion Y,63.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20Y.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+KGM,Torres EVX,Limited Plus 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+KGM,Torres EVX,Limited 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+BYD,TANG,GS 111 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20TANG%20GS%20111%20kWh.pdf
+BYD,YUAN PLUS,GS 62 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,YUAN PLUS,GS 50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,DOLPHIN MINI,GS 38 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,HAN,GS 88 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20HAN%20GS%2088%20kWh.pdf
+BYD,SEAL,GS 82.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SEAL%20GS%2082.5%20kWh.pdf
+BYD,SONG PLUS DM-i,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PLUS DM-i,GX PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PRO,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,YUAN PRO,GL 32 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+BYD,SONG PRO,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,DOLPHIN MINI,GL 30 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,SHARK,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SHARK%20GS%20PHEV.pdf
+BYD,YUAN PRO,GS 42.12 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Fiat,600e,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20600e.pdf
+Fiat,500e,42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20500e.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+Jeep,Avenger,Summit BEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Avenger,Altitude HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Compass,4XE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Compass.pdf
+Jeep,Avenger,Summit HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Chery,Tiggo 7,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%207%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 8,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%208%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 9,Luxury PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha-Tecnica-Tiggo-9-PHEV.pdf
+Mitsubishi,Outlander,GLS Limited 4x4 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mitsubishi%20Outlander.pdf
+GAC,Emkoo,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Emkoo.pdf
+GAC,Aion ES,55.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20ES.pdf
+GAC,Aion Y,63.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20Y.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+KGM,Torres EVX,Limited Plus 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+KGM,Torres EVX,Limited 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+BYD,TANG,GS 111 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20TANG%20GS%20111%20kWh.pdf
+BYD,YUAN PLUS,GS 62 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,YUAN PLUS,GS 50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,DOLPHIN MINI,GS 38 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,HAN,GS 88 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20HAN%20GS%2088%20kWh.pdf
+BYD,SEAL,GS 82.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SEAL%20GS%2082.5%20kWh.pdf
+BYD,SONG PLUS DM-i,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PLUS DM-i,GX PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PRO,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,YUAN PRO,GL 32 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+BYD,SONG PRO,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,DOLPHIN MINI,GL 30 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,SHARK,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SHARK%20GS%20PHEV.pdf
+BYD,YUAN PRO,GS 42.12 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Fiat,600e,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20600e.pdf
+Fiat,500e,42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20500e.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+Jeep,Avenger,Summit BEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Avenger,Altitude HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Compass,4XE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Compass.pdf
+Jeep,Avenger,Summit HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Chery,Tiggo 7,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%207%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 8,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%208%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 9,Luxury PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha-Tecnica-Tiggo-9-PHEV.pdf
+Mitsubishi,Outlander,GLS Limited 4x4 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mitsubishi%20Outlander.pdf
+GAC,Emkoo,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Emkoo.pdf
+GAC,Aion ES,55.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20ES.pdf
+GAC,Aion Y,63.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20Y.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+KGM,Torres EVX,Limited Plus 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+KGM,Torres EVX,Limited 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+BYD,TANG,GS 111 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20TANG%20GS%20111%20kWh.pdf
+BYD,YUAN PLUS,GS 62 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,YUAN PLUS,GS 50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,DOLPHIN MINI,GS 38 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,HAN,GS 88 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20HAN%20GS%2088%20kWh.pdf
+BYD,SEAL,GS 82.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SEAL%20GS%2082.5%20kWh.pdf
+BYD,SONG PLUS DM-i,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PLUS DM-i,GX PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PRO,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,YUAN PRO,GL 32 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+BYD,SONG PRO,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,DOLPHIN MINI,GL 30 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,SHARK,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SHARK%20GS%20PHEV.pdf
+BYD,YUAN PRO,GS 42.12 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Fiat,600e,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20600e.pdf
+Fiat,500e,42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20500e.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+Jeep,Avenger,Summit BEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Avenger,Altitude HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Compass,4XE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Compass.pdf
+Jeep,Avenger,Summit HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Chery,Tiggo 7,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%207%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 8,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%208%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 9,Luxury PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha-Tecnica-Tiggo-9-PHEV.pdf
+Mitsubishi,Outlander,GLS Limited 4x4 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mitsubishi%20Outlander.pdf
+GAC,Emkoo,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Emkoo.pdf
+GAC,Aion ES,55.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20ES.pdf
+GAC,Aion Y,63.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20Y.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+KGM,Torres EVX,Limited Plus 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+KGM,Torres EVX,Limited 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+BYD,TANG,GS 111 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20TANG%20GS%20111%20kWh.pdf
+BYD,YUAN PLUS,GS 62 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,YUAN PLUS,GS 50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,DOLPHIN MINI,GS 38 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,HAN,GS 88 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20HAN%20GS%2088%20kWh.pdf
+BYD,SEAL,GS 82.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SEAL%20GS%2082.5%20kWh.pdf
+BYD,SONG PLUS DM-i,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PLUS DM-i,GX PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PRO,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,YUAN PRO,GL 32 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+BYD,SONG PRO,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,DOLPHIN MINI,GL 30 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,SHARK,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SHARK%20GS%20PHEV.pdf
+BYD,YUAN PRO,GS 42.12 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Fiat,600e,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20600e.pdf
+Fiat,500e,42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20500e.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+Jeep,Avenger,Summit BEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Avenger,Altitude HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Compass,4XE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Compass.pdf
+Jeep,Avenger,Summit HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Chery,Tiggo 7,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%207%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 8,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%208%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 9,Luxury PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha-Tecnica-Tiggo-9-PHEV.pdf
+Mitsubishi,Outlander,GLS Limited 4x4 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mitsubishi%20Outlander.pdf
+GAC,Emkoo,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Emkoo.pdf
+GAC,Aion ES,55.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20ES.pdf
+GAC,Aion Y,63.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/GAC%20Aion%20Y.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+KGM,Torres EVX,Limited Plus 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+KGM,Torres EVX,Limited 73.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KGM%20Torres%20EVX.pdf
+BYD,TANG,GS 111 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20TANG%20GS%20111%20kWh.pdf
+BYD,YUAN PLUS,GS 62 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,YUAN PLUS,GS 50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PLUS.pdf
+BYD,DOLPHIN MINI,GS 38 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,HAN,GS 88 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20HAN%20GS%2088%20kWh.pdf
+BYD,SEAL,GS 82.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SEAL%20GS%2082.5%20kWh.pdf
+BYD,SONG PLUS DM-i,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PLUS DM-i,GX PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PLUS%20DM-i.pdf
+BYD,SONG PRO,GL PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,YUAN PRO,GL 32 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+BYD,SONG PRO,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SONG%20PRO.pdf
+BYD,DOLPHIN MINI,GL 30 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20DOLPHIN%20MINI%20GS%2038%20kWh.pdf
+BYD,SHARK,GS PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20SHARK%20GS%20PHEV.pdf
+BYD,YUAN PRO,GS 42.12 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BYD%20YUAN%20PRO.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Fiat,600e,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20600e.pdf
+Fiat,500e,42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Fiat%20500e.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+Jeep,Avenger,Summit BEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Avenger,Altitude HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Jeep,Compass,4XE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Compass.pdf
+Jeep,Avenger,Summit HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jeep%20Avenger%20HEV.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Chery,Tiggo 7,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%207%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 8,Pro Max PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chery%20Tiggo%208%20Pro%20Max%20PHEV.pdf
+Chery,Tiggo 9,Luxury PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha-Tecnica-Tiggo-9-PHEV.pdf
+Mitsubishi,Outlander,GLS Limited 4x4 PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Mitsubishi%20Outlander.pdf

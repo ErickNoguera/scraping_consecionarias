@@ -1,0 +1,913 @@
+marca,modelo,version,url_modelo
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Citroën,C5,Aircross PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C5%20Aircross%20PHEV.pdf
+Citroën,C4,Max MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Citroën,C4,Plus MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Citroën%20C4.pdf
+Hyundai,Kona,Value 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Hyundai,Tucson,NX4 Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,Tucson,NX4 Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Limited AWD 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,IONIQ 5,Limited 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Inster,Design LR 49 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Kona,Plus HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Inster,Plus 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Inster.pdf
+Hyundai,Santa Fe,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Santa Fe,Premium HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai-Santa-Fe-Hybrid-ficha-tecnica.pdf
+Hyundai,Tucson,NX4 Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/ficha-tecnica-tucson-hev-21.5x28-cm-2.pdf
+Hyundai,IONIQ 5,Premium 72.6 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20IONIQ%205.pdf
+Hyundai,Kona,Design HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20Kona%20HEV.pdf
+Hyundai,Kona,Premium 48 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Hyundai%20KONA%20BEV.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+JAC,Ignite30X,41 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20Ignite30X.pdf
+JAC,EJS4,55 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS4.pdf
+JAC,EJS1,31.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JAC%20EJS1.pdf
+BMW,X5,xDrive30d M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20M%20Sport%20LCI%20MHEV.pdf
+BMW,i5,eDrive40 84.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i5%20eDrive40%2084.4%20kWh.pdf
+BMW,X1,xDrive25e Dynamic PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20Dynamic%20PHEV.pdf
+BMW,X1,xDrive25e M Sport PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X1%20xDrive25e%20M%20Sport%20PHEV.pdf
+BMW,X5,xDrive30d xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e M Sport LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive50e xLine LCI PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,X5,xDrive60i LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i7,M70 xDrive 105.7 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i7%20M70%20xDrive%20105.7%20kWh.pdf
+BMW,iX,xDrive45 100 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX%20xDrive45%20100%20kWh.pdf
+BMW,iX1,xDrive20 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf
+BMW,iX2,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX2%20xDrive30%2066.5%20kWh.pdf
+BMW,X5,xDrive40i M Sport LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,i4,eDrive40 83.9 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20i4%20eDrive40%2083.9%20kWh.pdf
+BMW,X3,xDrive30e Heritage PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X3%20xDrive30e%20Heritage%20PHEV.pdf
+BMW,X5,xDrive40i xLine LCI MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20X5%20xDrive30d%20xLine%20LCI%20MHEV.pdf
+BMW,XM,XM PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20XM%20XM%20PHEV.pdf
+BMW,iX1,xDrive30 66.5 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/BMW%20iX1%20xDrive20%2066.5%20kWh.pdf

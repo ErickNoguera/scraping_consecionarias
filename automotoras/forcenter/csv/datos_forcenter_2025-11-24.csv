@@ -1,0 +1,243 @@
+marca,modelo,version,url_modelo
+MG,Marvel R,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Marvel.pdf
+MG,Cyberster,AWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,ZS,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,Cyberster,RWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,MG3,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG3%20.pdf
+MG,MG4,DLX 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,DLX LR 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,STD 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,XPOWER 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,ZS,DLX 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,ZS,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20SZ%20HEV.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+MG,Marvel R,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Marvel.pdf
+MG,Cyberster,AWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,ZS,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,Cyberster,RWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,MG3,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG3%20.pdf
+MG,MG4,DLX 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,DLX LR 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,STD 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,XPOWER 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,ZS,DLX 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,ZS,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20SZ%20HEV.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+MG,Marvel R,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Marvel.pdf
+MG,Cyberster,AWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,ZS,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,Cyberster,RWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,MG3,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG3%20.pdf
+MG,MG4,DLX 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,DLX LR 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,STD 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,XPOWER 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,ZS,DLX 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,ZS,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20SZ%20HEV.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+MG,Marvel R,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Marvel.pdf
+MG,Cyberster,AWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,ZS,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,Cyberster,RWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,MG3,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG3%20.pdf
+MG,MG4,DLX 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,DLX LR 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,STD 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,XPOWER 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,ZS,DLX 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,ZS,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20SZ%20HEV.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+MG,Marvel R,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Marvel.pdf
+MG,Cyberster,AWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,ZS,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,Cyberster,RWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,MG3,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG3%20.pdf
+MG,MG4,DLX 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,DLX LR 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,STD 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,XPOWER 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,ZS,DLX 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,ZS,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20SZ%20HEV.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+MG,Marvel R,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Marvel.pdf
+MG,Cyberster,AWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,ZS,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,Cyberster,RWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,MG3,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG3%20.pdf
+MG,MG4,DLX 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,DLX LR 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,STD 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,XPOWER 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,ZS,DLX 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,ZS,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20SZ%20HEV.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+MG,Marvel R,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Marvel.pdf
+MG,Cyberster,AWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,ZS,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,Cyberster,RWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,MG3,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG3%20.pdf
+MG,MG4,DLX 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,DLX LR 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,STD 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,XPOWER 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,ZS,DLX 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,ZS,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20SZ%20HEV.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+MG,Marvel R,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Marvel.pdf
+MG,Cyberster,AWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,ZS,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,Cyberster,RWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,MG3,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG3%20.pdf
+MG,MG4,DLX 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,DLX LR 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,STD 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,XPOWER 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,ZS,DLX 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,ZS,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20SZ%20HEV.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+MG,Marvel R,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Marvel.pdf
+MG,Cyberster,AWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,ZS,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,Cyberster,RWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,MG3,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG3%20.pdf
+MG,MG4,DLX 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,DLX LR 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,STD 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,XPOWER 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,ZS,DLX 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,ZS,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20SZ%20HEV.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+MG,Marvel R,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Marvel.pdf
+MG,Cyberster,AWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,ZS,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,Cyberster,RWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,MG3,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG3%20.pdf
+MG,MG4,DLX 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,DLX LR 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,STD 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,XPOWER 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,ZS,DLX 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,ZS,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20SZ%20HEV.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf
+MG,Marvel R,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Marvel.pdf
+MG,Cyberster,AWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,ZS,DLX 72 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,Cyberster,RWD 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20Cyberster.pdf
+MG,MG3,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG3%20.pdf
+MG,MG4,DLX 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,DLX LR 77 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,STD 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,MG4,XPOWER 64 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20MG4.pdf
+MG,ZS,DLX 51 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20ZS.pdf
+MG,ZS,HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/MG%20SZ%20HEV.pdf
+JMC,Vigus,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/JMC%20Vigus.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Ford,Escape,Platinum HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x2 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,Escape,ST HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Escape.pdf
+Ford,Maverick,Lariat 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20Maverick.pdf
+Ford,F-150,Platinum 4x4 HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ford%20F-150.pdf

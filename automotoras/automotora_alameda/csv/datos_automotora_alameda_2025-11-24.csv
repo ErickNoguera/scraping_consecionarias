@@ -1,0 +1,404 @@
+marca,modelo,version,url_modelo
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+DFSK,600,ELITE PRO PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,600,ELITE PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/DFSK%20600.pdf
+DFSK,SERES #3,53 kWh,https://storage.cloud.google.com/autovolt-images/fichas_tecnicas/DFSK%20Seres%20%233.pdf
+Kia,Niro,EX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%20Niro.pdf
+Kia,EV5,Light 64.2 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,EV6,GT 77.4 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV6.pdf
+Kia,EV9,GT 99.8 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV9.pdf
+Kia,EV5,Wave 88.1 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/KIA%20EV5.pdf
+Kia,Niro,LX HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Kia%23Niro.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Subaru,Forester,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Subaru,Crosstrek,Touring ES HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Crosstrek.pdf
+Subaru,Forester,Dynamic HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Subaru%20Forester.pdf
+Geely,EX5,Max 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Geely,EX5,Pro 60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Geely%20EX5.pdf
+Peugeot,308,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,208,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20MHEV.pdf
+Peugeot,2008,Style MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,5008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf
+Peugeot,3008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,308,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Ficha%20Te%CC%81cnica%20308.pdf
+Peugeot,2008,GT MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008.pdf
+Peugeot,3008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,e-208,54 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%20208%20BEV.pdf
+Peugeot,e-2008,50 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%202008%20BEV.pdf
+Peugeot,3008,Premiere MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%203008.pdf
+Peugeot,5008,Allure MHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Peugeot%205008.pdf

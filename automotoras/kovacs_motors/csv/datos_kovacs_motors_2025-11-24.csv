@@ -1,0 +1,451 @@
+marca,modelo,version,url_modelo
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
+Omoda,E5,60 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Omoda%20E5.pdf
+Jaecoo,J6,PATAGONIA 70 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS PATAGONIA PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Jaecoo,J6,ANDES 66 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J6.pdf
+Jaecoo,J7,SHS ANDES PHEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Jaecoo%20J7%20SHS.pdf
+Nissan,X-Trail,E-Power Exclusive HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,Leaf,40 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20Leaf.pdf
+Nissan,X-Trail,E-Power Advance EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Nissan,X-Trail,E-Power Exclusive EREV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Nissan%20X-Trail.pdf
+Toyota,Corolla,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XSE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Corolla Cross,SEG HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XLI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,XLE HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Toyota,Yaris,Cross HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Yaris.pdf
+Toyota,Corolla Cross,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla%20Cross.pdf
+Toyota,Corolla,XEI HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20Corolla.pdf
+Toyota,RAV4,Limited HEV,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Toyota%20RAV4.pdf
+Chevrolet,Spark,EV 42 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Spark%20Ficha.pdf
+Chevrolet,Bolt,EV LT 65 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Bolt%20EV%20LT%2065%20kWh.pdf
+Chevrolet,Equinox,EV LTZ 85 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%Equinox%EV%LTZ%85%kWh.pdf
+Chevrolet,Blazer,EV RS 102 kWh,https://storage.googleapis.com/autovolt-images/fichas_tecnicas/Chevrolet%20Blazer%20EV%20RS%20102%20kWh.pdf
