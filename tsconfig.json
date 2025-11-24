@@ -13,6 +13,6 @@
     "declaration": true,
     "sourceMap": true
   },
-  "include": ["src", "*.ts"],
+  "include": ["src", "*.ts", "scripts/setup/setup_automotoras_folders.ts", "scripts/setup/list_automotoras_folders.ts", "scripts/data/dividir_csv_por_automotora.ts"],
   "exclude": ["node_modules", "dist"]
 }
