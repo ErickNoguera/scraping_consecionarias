@@ -7,7 +7,7 @@
     "run-scraper": "tsx",
     "scrape-all": "tsx src/index.ts",
     "setup:folders": "tsx setup_automotoras_folders.ts",
-    "list:folders": "tsx list_automotoras_structure.ts",
+    "list:folders": "tsx list_automotoras_folders.ts",
     "setup:dev": "tsx watch setup_automotoras_folders.ts"
   },
   "dependencies": {
